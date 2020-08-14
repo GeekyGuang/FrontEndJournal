@@ -1,0 +1,3 @@
+# GitHub提交commit不变绿的原因
+
+是因为提交commit的邮箱与GitHub注册邮箱不一致，打开github的Settings，把邮箱添加进Emails里就行了。
